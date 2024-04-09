@@ -6,6 +6,11 @@
 
 - `<prefix> c`
 
+## Reload Tmux Environment
+
+- `<prefix> I`
+  > Reloads the Tmux environment
+
 ## Change Between Windows
 
 - `<prefix> <window_number>`
